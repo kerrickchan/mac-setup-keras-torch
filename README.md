@@ -1,16 +1,14 @@
 # Mac Setup Keras Torch
 
 1. Simple Keras Setup Backend with Pytorch
-   ```bash
-   make setup
-   ```
+```bash
+make setup
+```
 2. Run Simple MNIST Convnet for Mac with Conda(miniconda)
 
 ```bash
 make
 ```
-
-
 
 Reference
 
