@@ -1,0 +1,7 @@
+numpy
+keras
+keras-cv
+keras-nlp
+torch
+torchvision
+torchaudio
